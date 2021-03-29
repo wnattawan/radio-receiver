@@ -1,0 +1,23 @@
+{
+    "name": "receiver",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "servo": "*",
+        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
